@@ -37,3 +37,11 @@ Deliverables:
 
 Live Preview:
 Screenshots and highlights of the dashboard are included in this repository.
+
+# About the Author
+
+I'm Medhansh Medishetty, a data analytics enthusiast focused on solving business problems through data insights.  
+This project is part of my data portfolio. You can explore more at:  
+GitHub: github.com/MedhanshMedishetty  
+LinkedIn: linkedin.com/in/medhanshmedishetty
+
